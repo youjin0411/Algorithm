@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro1_1", "cospro1_1\cospro1_1.vcxproj", "{A375655C-FC94-407E-9B6D-1E46E2A69FFC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro1_2", "cospro1_2\cospro1_2.vcxproj", "{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A375655C-FC94-407E-9B6D-1E46E2A69FFC}.Release|x64.Build.0 = Release|x64
 		{A375655C-FC94-407E-9B6D-1E46E2A69FFC}.Release|x86.ActiveCfg = Release|Win32
 		{A375655C-FC94-407E-9B6D-1E46E2A69FFC}.Release|x86.Build.0 = Release|Win32
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Debug|x64.ActiveCfg = Debug|x64
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Debug|x64.Build.0 = Debug|x64
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Debug|x86.Build.0 = Debug|Win32
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x64.ActiveCfg = Release|x64
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x64.Build.0 = Release|x64
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x86.ActiveCfg = Release|Win32
+		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
