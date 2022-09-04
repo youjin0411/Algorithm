@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro1_1", "cospro1_1\cosp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro1_2", "cospro1_2\cospro1_2.vcxproj", "{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro1_3", "채네개1_3\채네개1_3.vcxproj", "{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x64.Build.0 = Release|x64
 		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x86.ActiveCfg = Release|Win32
 		{24CDC00C-C7B1-4F0A-AA6D-91DCC05B28CB}.Release|x86.Build.0 = Release|Win32
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Debug|x64.ActiveCfg = Debug|x64
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Debug|x64.Build.0 = Debug|x64
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Debug|x86.Build.0 = Debug|Win32
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Release|x64.ActiveCfg = Release|x64
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Release|x64.Build.0 = Release|x64
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Release|x86.ActiveCfg = Release|Win32
+		{7E34C5CD-73B2-4B5A-BD9E-5FDCD4FF7155}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
