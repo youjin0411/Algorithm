@@ -7,10 +7,17 @@
 /*
  쇼핑몰 등급별 할인 금액 구하기
  등급 : S -> 할인율 : 5%
- 등급 : S -> 할인율 : 10%
- 등급 : S -> 할인율 : 15%
+ 등급 : G -> 할인율 : 10%
+ 등급 : V -> 할인율 : 15%
 */
+int solution(int price, char* grade) {
+	int answer = 0; 
+	if (strcmp(grade, "S") == 0) answer = price * 0.95;
+	if (strcmp(grade, "G") == 0) answer = price * 0.9;
+	if (strcmp(grade, "V") == 0) answer = price * 0.85;
 
+	return answer;
+}
 
 int main() {
 	int price1 = 2500;
