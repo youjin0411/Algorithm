@@ -32,7 +32,10 @@ void QuickSort(int a[], int left, int right) {
 		a[j] = pivot;
 
 		//재귀 호출 
+		//a[j]방을 기준으로 반으로 쪼갠다고 생각하고 정렬
+		//a정렬시킬 배열, left 시작 인덱스 0, j-1 a[j]인덱스-1
 		QuickSort(a, left, j - 1);
+		//a정렬시킬 배열, j+1 a[j]+1로 시작 인덱스, right 끝 인덱스 
 		QuickSort(a, j + 1, right);
 	}
 
@@ -42,6 +45,7 @@ int main(void) {
 	int a[] = { 15,7,2,20,33,17,26,5,21,30,27,29,11,10,3 };
 	int i, n = sizeof(a) / sizeof(int);
 
+	//a는 정렬시킬 배열, 0은 시작 인덱스 left, n-1은 끝 인덱스 right
 	QuickSort(a, 0, n - 1);
 	printf("\n퀵 정렬 : ");
 	for (int i = 0; i < n; i++) printf("%5d", a[i]);
