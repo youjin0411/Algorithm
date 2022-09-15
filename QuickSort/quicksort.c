@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void QuickSort(int a[], int left, int right) {
 	//i는 현재 left를 기준으로 오른쪽 숫자 중에서 left의 수보다 큰 수 
 	//j는 현재 right를 기준으로 left 숫자 보다 작은 수 
