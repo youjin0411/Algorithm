@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cho10", "cho10\cho10.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chod", "chod\chod.vcxproj", "{ED58508D-42A3-4099-A1FF-57FB88917587}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "choSort", "choSort\choSort.vcxproj", "{69846C1E-B4CB-4506-BD75-E216AB0DC214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{ED58508D-42A3-4099-A1FF-57FB88917587}.Release|x64.Build.0 = Release|x64
 		{ED58508D-42A3-4099-A1FF-57FB88917587}.Release|x86.ActiveCfg = Release|Win32
 		{ED58508D-42A3-4099-A1FF-57FB88917587}.Release|x86.Build.0 = Release|Win32
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Debug|x64.ActiveCfg = Debug|x64
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Debug|x64.Build.0 = Debug|x64
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Debug|x86.ActiveCfg = Debug|Win32
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Debug|x86.Build.0 = Debug|Win32
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Release|x64.ActiveCfg = Release|x64
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Release|x64.Build.0 = Release|x64
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Release|x86.ActiveCfg = Release|Win32
+		{69846C1E-B4CB-4506-BD75-E216AB0DC214}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
