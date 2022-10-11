@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort", "qsort\qsort.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortExecutionTime", "SortExecutionTime\SortExecutionTime.vcxproj", "{34D4BE35-8013-4797-9CE9-594DDEB19B72}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro4_5", "cospro4_5\cospro4_5.vcxproj", "{14F8E688-B414-498A-A923-0757AE362F71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x64.Build.0 = Release|x64
 		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x86.ActiveCfg = Release|Win32
 		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x86.Build.0 = Release|Win32
+		{14F8E688-B414-498A-A923-0757AE362F71}.Debug|x64.ActiveCfg = Debug|x64
+		{14F8E688-B414-498A-A923-0757AE362F71}.Debug|x64.Build.0 = Debug|x64
+		{14F8E688-B414-498A-A923-0757AE362F71}.Debug|x86.ActiveCfg = Debug|Win32
+		{14F8E688-B414-498A-A923-0757AE362F71}.Debug|x86.Build.0 = Debug|Win32
+		{14F8E688-B414-498A-A923-0757AE362F71}.Release|x64.ActiveCfg = Release|x64
+		{14F8E688-B414-498A-A923-0757AE362F71}.Release|x64.Build.0 = Release|x64
+		{14F8E688-B414-498A-A923-0757AE362F71}.Release|x86.ActiveCfg = Release|Win32
+		{14F8E688-B414-498A-A923-0757AE362F71}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
