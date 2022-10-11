@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RadixSortDESC", "RadixSortD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort", "qsort\qsort.vcxproj", "{AE4E70DD-87CD-40A1-80F5-97D08BBD3252}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortExecutionTime", "SortExecutionTime\SortExecutionTime.vcxproj", "{34D4BE35-8013-4797-9CE9-594DDEB19B72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{AE4E70DD-87CD-40A1-80F5-97D08BBD3252}.Release|x64.Build.0 = Release|x64
 		{AE4E70DD-87CD-40A1-80F5-97D08BBD3252}.Release|x86.ActiveCfg = Release|Win32
 		{AE4E70DD-87CD-40A1-80F5-97D08BBD3252}.Release|x86.Build.0 = Release|Win32
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Debug|x64.ActiveCfg = Debug|x64
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Debug|x64.Build.0 = Debug|x64
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Debug|x86.ActiveCfg = Debug|Win32
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Debug|x86.Build.0 = Debug|Win32
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x64.ActiveCfg = Release|x64
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x64.Build.0 = Release|x64
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x86.ActiveCfg = Release|Win32
+		{34D4BE35-8013-4797-9CE9-594DDEB19B72}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
