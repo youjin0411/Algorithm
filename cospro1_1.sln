@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro5_3", "cospro5_3\cosp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro5_2", "cospro5_2\cospro5_2.vcxproj", "{3DF186F5-2609-4894-A037-E1E47CDE495C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RadixSortDESC", "RadixSortDESC\RadixSortDESC.vcxproj", "{EE44672C-123C-47F1-9FB4-02753E28B674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{3DF186F5-2609-4894-A037-E1E47CDE495C}.Release|x64.Build.0 = Release|x64
 		{3DF186F5-2609-4894-A037-E1E47CDE495C}.Release|x86.ActiveCfg = Release|Win32
 		{3DF186F5-2609-4894-A037-E1E47CDE495C}.Release|x86.Build.0 = Release|Win32
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Debug|x64.ActiveCfg = Debug|x64
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Debug|x64.Build.0 = Debug|x64
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Debug|x86.Build.0 = Debug|Win32
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Release|x64.ActiveCfg = Release|x64
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Release|x64.Build.0 = Release|x64
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Release|x86.ActiveCfg = Release|Win32
+		{EE44672C-123C-47F1-9FB4-02753E28B674}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
