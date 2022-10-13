@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro4_5", "cospro4_5\cosp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro4_6", "cospro4_6\cospro4_6.vcxproj", "{E588C574-56B4-4C8E-A35F-BECEFE5DCDCA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro4_9", "cospro4_9\cospro4_9.vcxproj", "{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{E588C574-56B4-4C8E-A35F-BECEFE5DCDCA}.Release|x64.Build.0 = Release|x64
 		{E588C574-56B4-4C8E-A35F-BECEFE5DCDCA}.Release|x86.ActiveCfg = Release|Win32
 		{E588C574-56B4-4C8E-A35F-BECEFE5DCDCA}.Release|x86.Build.0 = Release|Win32
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Debug|x64.ActiveCfg = Debug|x64
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Debug|x64.Build.0 = Debug|x64
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Debug|x86.ActiveCfg = Debug|Win32
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Debug|x86.Build.0 = Debug|Win32
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Release|x64.ActiveCfg = Release|x64
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Release|x64.Build.0 = Release|x64
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Release|x86.ActiveCfg = Release|Win32
+		{83FB35D1-B0C9-4CA8-9023-68F2CE95AD31}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
