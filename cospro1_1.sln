@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cospro4_9", "cospro4_9\cosp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cho0_BimarySearch", "cho0_BimarySearch\cho0_BimarySearch.vcxproj", "{54FD2454-2E86-40AD-88B6-ED48FECB7ECA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterpolationSearch", "InterpolationSearch\InterpolationSearch.vcxproj", "{4DB7FA95-2D62-4CA3-BF70-A5136225A951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{54FD2454-2E86-40AD-88B6-ED48FECB7ECA}.Release|x64.Build.0 = Release|x64
 		{54FD2454-2E86-40AD-88B6-ED48FECB7ECA}.Release|x86.ActiveCfg = Release|Win32
 		{54FD2454-2E86-40AD-88B6-ED48FECB7ECA}.Release|x86.Build.0 = Release|Win32
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Debug|x64.ActiveCfg = Debug|x64
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Debug|x64.Build.0 = Debug|x64
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Debug|x86.Build.0 = Debug|Win32
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Release|x64.ActiveCfg = Release|x64
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Release|x64.Build.0 = Release|x64
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Release|x86.ActiveCfg = Release|Win32
+		{4DB7FA95-2D62-4CA3-BF70-A5136225A951}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
