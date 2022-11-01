@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{81576f2f-2cfd-40e1-beef-e23fb57c837a}</ProjectGuid>
-    <RootNamespace>ch09</RootNamespace>
+    <ProjectGuid>{16d7d1ef-7dec-46e6-b1e7-7c4261c3e364}</ProjectGuid>
+    <RootNamespace>nameLIst</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>ch09_test</ProjectName>
+    <ProjectName>ch09</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="mergeSort.c">
+    <ClCompile Include="hashingDivider.c" />
+    <ClCompile Include="nameList.txt">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemGroup>
