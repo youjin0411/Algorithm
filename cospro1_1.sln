@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DijkstraShortestPath1_1", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DijkstraShortestPath2", "DijkstraShortestPath2\DijkstraShortestPath2.vcxproj", "{1BF461F5-9999-4331-A7FD-D6B313555FA0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RePermutation1test", "RePermutation1tes\RePermutation1tes.vcxproj", "{9034E256-A808-4DF2-A799-6B670AC28AA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{1BF461F5-9999-4331-A7FD-D6B313555FA0}.Release|x64.Build.0 = Release|x64
 		{1BF461F5-9999-4331-A7FD-D6B313555FA0}.Release|x86.ActiveCfg = Release|Win32
 		{1BF461F5-9999-4331-A7FD-D6B313555FA0}.Release|x86.Build.0 = Release|Win32
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Debug|x64.ActiveCfg = Debug|x64
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Debug|x64.Build.0 = Debug|x64
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Debug|x86.Build.0 = Debug|Win32
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Release|x64.ActiveCfg = Release|x64
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Release|x64.Build.0 = Release|x64
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Release|x86.ActiveCfg = Release|Win32
+		{9034E256-A808-4DF2-A799-6B670AC28AA8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
