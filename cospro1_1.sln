@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySerach", "BinarySerac
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DepthFirstSerach", "DepthFirstSerach\DepthFirstSerach.vcxproj", "{98EDADEC-EE87-474D-A1C7-64C8D74C3FAA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.vcxproj", "{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{98EDADEC-EE87-474D-A1C7-64C8D74C3FAA}.Release|x64.Build.0 = Release|x64
 		{98EDADEC-EE87-474D-A1C7-64C8D74C3FAA}.Release|x86.ActiveCfg = Release|Win32
 		{98EDADEC-EE87-474D-A1C7-64C8D74C3FAA}.Release|x86.Build.0 = Release|Win32
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Debug|x64.ActiveCfg = Debug|x64
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Debug|x64.Build.0 = Debug|x64
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Debug|x86.Build.0 = Debug|Win32
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Release|x64.ActiveCfg = Release|x64
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Release|x64.Build.0 = Release|x64
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Release|x86.ActiveCfg = Release|Win32
+		{8C21FFE6-D339-496A-A0E0-1DEE3A5950C4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
