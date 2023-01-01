@@ -2,7 +2,8 @@
 #include <string.h>
 
 int main(void) {
-	char* str[5] = { "structure", "information", "technology", "science", "communication" };
+	char *s= "mirim";
+	char* str[5] = { "structure", "information", "technology", "science", "communication"};
 	int i, j, n = sizeof(str) / sizeof(char*);
 
 	for (i = 1; i < n; i++) {
